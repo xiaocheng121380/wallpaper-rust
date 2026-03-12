@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "wallpapers": [
+    {
+      "id": "res_3b8d87ee-636d-59b6-a20c-e7338af14790",
+      "title": "【哲风壁纸】AI-夜晚-星空-0403",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】AI-夜晚-星空-0403.mp4",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\previews\\res_3b8d87ee-636d-59b6-a20c-e7338af14790.mp4",
+      "resolution": "3840×2160",
+      "file_size": 27183632,
+      "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "duration_sec": 10.033333,
+        "bit_rate": 21674657,
+        "video_codec": "h264",
+        "pix_fmt": "yuv420p",
+        "fps": 60.0
+      },
+      "import_time": "内置"
+    },
+    {
+      "id": "res_969cfb49-ea12-5561-8c97-5c0f3bb61ebe",
+      "title": "【哲风壁纸】二次元-休憩-卧室",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】二次元-休憩-卧室.png",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\thumbnails\\res_969cfb49-ea12-5561-8c97-5c0f3bb61ebe.jpg",
+      "resolution": null,
+      "file_size": 344721,
+      "metadata": {
+        "format_name": "png"
+      },
+      "import_time": "内置"
+    },
+    {
+      "id": "res_f0753aef-44c8-5b67-b954-7ec2b27de691",
+      "title": "【哲风壁纸】二次元风格-嘉贝莉娜-2064",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】二次元风格-嘉贝莉娜-2064.mp4",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\previews\\res_f0753aef-44c8-5b67-b954-7ec2b27de691.mp4",
+      "resolution": "3840×2160",
+      "file_size": 49909735,
+      "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "duration_sec": 6.566667,
+        "bit_rate": 60803734,
+        "video_codec": "h264",
+        "pix_fmt": "yuv420p",
+        "fps": 60.0,
+        "audio_codec": "aac",
+        "sample_rate": 44100,
+        "channels": 2
+      },
+      "import_time": "内置"
+    },
+    {
+      "id": "res_a865ca0c-7e38-5128-82ce-0b7cf1865478",
+      "title": "【哲风壁纸】二次元风格-嘉贝莉娜-7770",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】二次元风格-嘉贝莉娜-7770.mp4",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\previews\\res_a865ca0c-7e38-5128-82ce-0b7cf1865478.mp4",
+      "resolution": "3840×2160",
+      "file_size": 49909735,
+      "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "duration_sec": 6.566667,
+        "bit_rate": 60803734,
+        "video_codec": "h264",
+        "pix_fmt": "yuv420p",
+        "fps": 60.0,
+        "audio_codec": "aac",
+        "sample_rate": 44100,
+        "channels": 2
+      },
+      "import_time": "内置"
+    },
+    {
+      "id": "res_8b9587b3-16a7-56a0-81ff-9d04c665d325",
+      "title": "【哲风壁纸】云层-地球-夜景",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】云层-地球-夜景.png",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\thumbnails\\res_8b9587b3-16a7-56a0-81ff-9d04c665d325.jpg",
+      "resolution": null,
+      "file_size": 1823113,
+      "metadata": {
+        "format_name": "png"
+      },
+      "import_time": "内置"
+    },
+    {
+      "id": "res_1dc36197-3f61-5cc7-8afa-4e65108ab187",
+      "title": "【哲风壁纸】五条悟-咒术回战",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】五条悟-咒术回战.mp4",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\previews\\res_1dc36197-3f61-5cc7-8afa-4e65108ab187.mp4",
+      "resolution": "3830×1900",
+      "file_size": 26732140,
+      "metadata": {
+        "width": 3830,
+        "height": 1900,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "duration_sec": 4.0,
+        "bit_rate": 53464280,
+        "video_codec": "h264",
+        "pix_fmt": "yuv420p",
+        "fps": 60.0,
+        "audio_codec": "aac",
+        "sample_rate": 44100,
+        "channels": 2
+      },
+      "import_time": "内置"
+    },
+    {
+      "id": "res_1bce0721-5341-5706-9230-edcee2b926e6",
+      "title": "【哲风壁纸】光影-动漫美女-彩色",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】光影-动漫美女-彩色.mp4",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\previews\\res_1bce0721-5341-5706-9230-edcee2b926e6.mp4",
+      "resolution": "3840×2160",
+      "file_size": 20375525,
+      "metadata": {
+        "width": 3840,
+        "height": 2160,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "duration_sec": 5.1,
+        "bit_rate": 31961607,
+        "video_codec": "h264",
+        "pix_fmt": "yuv420p",
+        "fps": 60.0
+      },
+      "import_time": "内置"
+    },
+    {
+      "id": "res_e34aa8eb-8018-5f1e-a430-93cdc4369a8e",
+      "title": "【哲风壁纸】动漫人物-古风-坐姿",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】动漫人物-古风-坐姿.png",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\thumbnails\\res_e34aa8eb-8018-5f1e-a430-93cdc4369a8e.jpg",
+      "resolution": null,
+      "file_size": 2268078,
+      "metadata": {
+        "format_name": "png"
+      },
+      "import_time": "内置"
+    },
+    {
+      "id": "res_375673ac-f750-5a34-be8a-1d2a473d0961",
+      "title": "【哲风壁纸】清晨-雪山",
+      "local_path": "D:\\个人项目\\wallpaper-rust\\data\\wallpapers\\【哲风壁纸】清晨-雪山.png",
+      "thumbnail_path": "D:\\个人项目\\wallpaper-rust\\data\\thumbnails\\res_375673ac-f750-5a34-be8a-1d2a473d0961.jpg",
+      "resolution": null,
+      "file_size": 429609,
+      "metadata": {
+        "format_name": "png"
+      },
+      "import_time": "内置"
+    }
+  ]
+}

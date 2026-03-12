@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "language": "zh-CN",
+  "theme_mode": "dark",
+  "primary_color": "#18a058",
+  "video_wallpaper": {
+    "max_width": 2560,
+    "max_height": 1440,
+    "fps": 30,
+    "crf": 23,
+    "bitrate_kbps": null,
+    "hwdec": true
+  },
+  "current_wallpaper_id": null,
+  "stop_video_on_exit": true,
+  "minimize_to_tray": false,
+  "first_close_handled": true
+}

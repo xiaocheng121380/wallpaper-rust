@@ -1,0 +1,52 @@
+# Node / frontend
+node_modules/
+dist/
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Tauri / Rust build artifacts
+src-tauri/target/
+src-tauri/gen/schemas/
+
+# Runtime data and generated caches
+data/previews/
+data/plays/
+data/thumbnails/
+data/logs/
+data/database/*.tmp
+
+# Portable / packaging outputs
+portable/
+portable.zip
+*.zip
+
+# Local screenshots or temp assets
+*.tmp
+*.temp

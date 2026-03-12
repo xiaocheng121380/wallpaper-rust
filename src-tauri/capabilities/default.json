@@ -1,0 +1,52 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Capability for the main window",
+  "windows": [
+    "main"
+  ],
+  "permissions": [
+    "core:default",
+    "core:window:default",
+    "core:window:allow-close",
+    "core:window:allow-create",
+    "core:window:allow-minimize",
+    "core:window:allow-show",
+    "core:window:allow-set-focus",
+    "core:window:allow-start-dragging",
+    "core:window:allow-toggle-maximize",
+    "core:webview:allow-create-webview",
+    "core:webview:allow-create-webview-window",
+    "core:webview:allow-webview-close",
+    "opener:default",
+    "dialog:default",
+    "fs:default",
+    "log:default",
+    "autostart:default",
+    {
+      "identifier": "fs:allow-read",
+      "allow": [
+        {
+          "path": "$HOME/**"
+        },
+        {
+          "path": "$APPDATA/**"
+        },
+        {
+          "path": "$RESOURCE/**"
+        },
+        {
+          "path": "**"
+        }
+      ]
+    },
+    {
+      "identifier": "fs:allow-write",
+      "allow": [
+        {
+          "path": "$APPDATA/**"
+        }
+      ]
+    }
+  ]
+}

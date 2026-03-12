@@ -1,0 +1,80 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "WallCraft",
+  "version": "0.1.0",
+  "identifier": "com.wallcraft.app",
+  "build": {
+    "beforeDevCommand": "pnpm dev",
+    "devUrl": "http://localhost:1420",
+    "beforeBuildCommand": "pnpm build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "title": "WallCraft",
+        "width": 1200,
+        "height": 800,
+        "minWidth": 900,
+        "minHeight": 600,
+        "center": true,
+        "decorations": false
+      }
+    ],
+    "security": {
+      "csp": null,
+      "assetProtocol": {
+        "enable": true,
+        "scope": [
+          "**/*",
+          "/**/*",
+          "$HOME/Desktop/wallpaper-rust/data/**/*",
+          "$HOME/Desktop/wallpaper-rust/data/plays/**/*",
+          "$HOME/Desktop/wallpaper-rust/data/previews/**/*",
+          "$HOME/**/*",
+          "$APPDATA/**/*",
+          "$RESOURCE/**/*",
+          "$LOCALAPPDATA/**/*",
+          "C:/**/*",
+          "D:/**/*",
+          "E:/**/*",
+          "F:/**/*"
+        ]
+      }
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": [
+      "nsis",
+      "deb",
+      "appimage"
+    ],
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/256x256.png",
+      "icons/256x256.icns",
+      "icons/256x256.ico"
+    ],
+    "resources": {
+      "../data/wallpapers": "data/wallpapers"
+    },
+    "windows": {
+      "certificateThumbprint": null,
+      "digestAlgorithm": "sha256",
+      "timestampUrl": "",
+      "nsis": {
+        "installerIcon": "icons/256x256.ico",
+        "installMode": "currentUser",
+        "languages": [
+          "SimpChinese",
+          "English"
+        ],
+        "displayLanguageSelector": true,
+        "compression": "lzma"
+      }
+    }
+  }
+}
