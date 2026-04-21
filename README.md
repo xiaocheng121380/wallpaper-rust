@@ -238,7 +238,3 @@ pnpm run tauri:build
 项目中使用的部分壁纸资源来源于 **哲风壁纸**：
 
 https://www.haowallpaper.com/
-
-有兴趣交流的伙伴还有加入交流群
-
-![alt text](qq.png)
